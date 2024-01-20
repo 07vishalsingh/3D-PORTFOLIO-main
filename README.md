@@ -4,7 +4,7 @@
 
 # Singh 3D Developer Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_STATUS)](https://app.netlify.com/sites/singh-3d-portfolio/deploys)
+
 
 Welcome to my 3D Developer Portfolio! This project showcases my skills and projects in the realm of web development, particularly in React and Three.js.
 
@@ -39,4 +39,35 @@ This portfolio is a visual representation of my journey as a 3D Developer. It in
 ## Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/YOUR_USERNAME/singh-3d-portfolio.git
+   git clone https://github.com/07vishalsingh/3D-PORTFOLIO-main
+
+   Navigate to the project directory.
+bash
+Copy code
+cd singh-3d-portfolio
+Install dependencies.
+bash
+Copy code
+npm install
+Usage
+Run the development server:
+
+bash
+Copy code
+npm start
+Visit http://localhost:3000 in your browser to explore the portfolio locally.
+
+Screenshots
+(Include any screenshots or GIFs to showcase the portfolio)
+
+Contributing
+If you'd like to contribute to the project, feel free to open issues or submit pull requests.
+
+License
+This project is licensed under the MIT License.
+
+Contact
+Connect with me:
+
+Email: vishalsingh841211@gmail.com
+LinkedIn: https://www.linkedin.com/in/vishal-kumar-singh-270815278/
